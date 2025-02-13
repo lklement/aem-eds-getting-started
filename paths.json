@@ -5,6 +5,6 @@
     "/content/aem-eds-getting-started/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/aem-eds-getting-started/"
   ]
 }
